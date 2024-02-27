@@ -7,7 +7,7 @@ game 'gta5'
 -- Resource Information
 name 'ox_target'
 author 'Zixkerr'
-version '1.0.0'
+version '1.14.0'
 repository 'https://github.com/zixkerr/ox_target-redesign'
 description 'Ox_target redesigned'
 
